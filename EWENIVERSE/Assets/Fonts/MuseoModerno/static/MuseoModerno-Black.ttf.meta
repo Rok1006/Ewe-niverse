@@ -1,0 +1,39 @@
+fileFormatVersion: 2
+guid: 6d4f333f5bbe9f645828bf105851f595
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - MuseoModerno
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e1533e1c34a006b4b9c20648729bd473, type: 3}
+  - {fileID: 12800000, guid: c4cdac14328bd2048978afbd04d7a22d, type: 3}
+  - {fileID: 12800000, guid: 69f3dd685049fc44fb824d9617e1d671, type: 3}
+  - {fileID: 12800000, guid: 90dd532ca437be94b8444d5b4269dd42, type: 3}
+  - {fileID: 12800000, guid: f6f021b16ec8f36429f747738e1622e0, type: 3}
+  - {fileID: 12800000, guid: 7bd2795a522d1444c847349b70960c3f, type: 3}
+  - {fileID: 12800000, guid: db68cd78def3ffe4dbe41f65a00f87ae, type: 3}
+  - {fileID: 12800000, guid: b0345b15224916849b695bc0a3717727, type: 3}
+  - {fileID: 12800000, guid: 0282740e38926d44298a64af6e747dc1, type: 3}
+  - {fileID: 12800000, guid: 6aed536ad74c88441a00789e0120877b, type: 3}
+  - {fileID: 12800000, guid: 7c418dcac5ca8ba439a1157b3778e02a, type: 3}
+  - {fileID: 12800000, guid: 3810c796d60e38043b0a2c18d010af69, type: 3}
+  - {fileID: 12800000, guid: 73dc2edb84035ef4aa42e93a3dc2f672, type: 3}
+  - {fileID: 12800000, guid: d763be669a22405489595410c79f1181, type: 3}
+  - {fileID: 12800000, guid: d676282ccc54a28468c060859de0a41a, type: 3}
+  - {fileID: 12800000, guid: d946356f22de93740b83a46717a4cce9, type: 3}
+  - {fileID: 12800000, guid: f91b08cad7f003440816a02644fe5b7b, type: 3}
+  - {fileID: 12800000, guid: 4da5b5a7fcc510248bba64fa8fece434, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
