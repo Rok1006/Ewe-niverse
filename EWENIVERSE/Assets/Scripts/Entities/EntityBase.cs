@@ -4,18 +4,28 @@ using UnityEngine;
 
 public abstract class EntityBase : MonoBehaviour
 {
-    public string entityName;
-    public float health = 100f;
-    public Vector3 position;
+    protected string entityName;
+    protected float health = 100f;
+    protected Transform position;
     protected Rigidbody rb;
+
+    
+    public LayerMask groundLayer;
 
     protected virtual void Start()
     {
         rb = this.gameObject.GetComponent<Rigidbody>();    
     }
 
+    public virtual void Init()
+    {
+        
+    }
     // Move the entity to a new position
-    public abstract void Move();
+
+    protected abstract void GetEntityInfo();
+    
+
     
 
     // Inflict damage to the entity
